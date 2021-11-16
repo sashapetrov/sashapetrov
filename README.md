@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sashapetrov
-- 👀 I’m interested in learning AWS
-- 🌱 I’m currently learning terraform and prepare for SysOps Associate
-- 💞️ I’m looking to collaborate on practicing AWS
+- 👀 I’m interested in AWS
+- 💞️ I’m looking to collaborate on AWS
 - 📫 How to reach me: poker07@yandex.ru
 
 <!---
