@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sashapetrov
 - 👀 I’m interested in AWS
 - 💞️ I’m looking to collaborate on AWS
-- 📫 How to reach me: poker07@yandex.ru
+- 📫 How to reach me: algen.petrov@gmail.com
 
 <!---
 sashapetrov/sashapetrov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
